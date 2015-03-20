@@ -12,11 +12,6 @@ public class HuffmanTree
         huffmanTree = new TreeNode(0, 0);
     }
     
-    /** 
-     * return the Huffman Tree
-     * Pre: priorQueue != null
-     * Post: return the huffmanTree
-     */
     public TreeNode getHuffmanTree(PQueue<TreeNode> priorQueue) throws IOException {
         if(priorQueue == null)
             throw new IllegalArgumentException("Violation of Precondition. getHuffmanTree: priorQueue != null");
