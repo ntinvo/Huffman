@@ -74,5 +74,9 @@ What happens when you try and compress a huffman code file?
     those files don't get much compression when they are compressed. Addition to some files that I mentioned above, we will not get much 
     (or no compression) with gif files, music files (mp3 files, wma, ...), and movie files (avi files, mpg files, ...)
     
+
+
+
+For content, please email: tinnvo1101@gmail.com
    
     
